@@ -6,7 +6,7 @@ note:	the hts-log.txt file, and hts-cache folder, may contain sensitive informat
 	such as username/password authentication for websites mirrored in this project
 	do not share these files/folders if you want these information to remain private
 
-23:24:58	Error: 	"Forbidden" (403) at link talkirish.com/Themes/hawaii/images/common/ (from talkirish.com/media/)
+23:24:58	Error: 	"Forbidden" (403) at link talkirish.com/themes/hawaii/images/common/ (from talkirish.com/media/)
 23:25:03	Warning: 	Retry after error -5 (Unable to get server's address: No such host is known. ) at link widgets.twimg.com/j/2/widget.js (from talkirish.com/forums/)
 23:48:03	Error: 	"Not Found" (404) at link talkirish.com/user/POST (from talkirish.com/WebResource.axd?d=sJYdr7xz7M1K4cZp9SqyuH0V2KhUdqNkjV0SiazQaQSgSroZtFaAgnIsSIE3vwiiE4rWevT1POd9PPmsZzyeYFC0wGg1&t=636284633271971599)
 23:48:05	Warning: 	Retry after error -4 (Incorrect length (4027440 Bytes, 4779980 expected)) at link talkirish.com/online-irish-course/Online_course_trial.swf (from talkirish.com/online-irish-course/freelesson.aspx)
