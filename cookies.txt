@@ -1,0 +1,10 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+.google.com	TRUE	/	FALSE	1999999999	NID	190=KIfuudajC8NSbhSUbbEXlrMrvr54ELML71O24jLez2DtKl2RlzSMVufbNvUBXxmc52YWX4SDcElSq0qrTVcz_3mEuJUVZMU0LaX1-rRsYPOxHvJfE_cSQ7OMWxpN9A6yM5FCYOn7njEoRw1iW_7t3tuFGbcroUr1DEHDZ7LNmNQ
+www.paypal.com	TRUE	/	FALSE	1999999999	AKDC	ccg11-origin-www-1.paypal.com
+www.paypal.com	TRUE	/	FALSE	1999999999	akavpau_ppsd	1572476787~id=46a8a86c20a16590baa4a315766f7459
+.b-static.net	TRUE	/	FALSE	1999999999	__cfduid	d34c3f589eb94ffdb9f51d6f1d286f3f01572485934
+snipboard.io	TRUE	/	FALSE	1999999999	csrftoken	CI5rkbLkloc7pygwnzJ1IRaiLqYNjlEP
+talkirish.com	TRUE	/	FALSE	1999999999	CommunityServer-UserCookie2101	lv=Thu, 31 Oct 2019 10:01:42 GMT&mra=Thu, 31 Oct 2019 10:01:42 GMT
+talkirish.com	TRUE	/	FALSE	1999999999	CSAnonymous	cccf23c0-3a79-4291-aae4-2aaa95ad2f40
+

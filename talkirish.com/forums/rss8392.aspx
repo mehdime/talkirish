@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<?xml-stylesheet type="text/xsl" href="http://talkirish.com/utility/FeedStylesheets/rss.xsl" media="screen"?><rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:slash="http://purl.org/rss/1.0/modules/slash/" xmlns:wfw="http://wellformedweb.org/CommentAPI/"><channel><title>General</title><link>http://talkirish.com/forums/7.aspx</link><description>This is where general discussions about Ireland and the Irish language take place. Also, if you would like to introduce yourself, please feel free to do that here. We may post announcements about the website in this board from time to time.</description><dc:language>en</dc:language><generator>CommunityServer 2008 SP1 (Build: 30619.63)</generator><item><title>Re: Irish accent/dialect help!</title><link>http://talkirish.com/forums/thread/9571.aspx</link><pubDate>Sun, 17 Nov 2013 23:23:23 GMT</pubDate><guid isPermaLink="false">0644754f-ff87-49dd-b5e3-0e104f790f4a:9571</guid><dc:creator>BridMhor</dc:creator><slash:comments>0</slash:comments><comments>http://talkirish.com/forums/thread/9571.aspx</comments><wfw:commentRss>http://talkirish.com/forums/commentrss.aspx?SectionID=7&amp;PostID=9571</wfw:commentRss><description>&lt;p&gt;As far as I know Clare had its own seperate dialect. Not Conamara nor Munster. It was a mixture of the two, but more closely related to Conamara Irish.&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;The closest you can find today is the Irish spoken on Inis O&amp;iacute;rr.&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;div style="clear:both;"&gt;&lt;/div&gt;</description></item><item><title>Irish accent/dialect help!</title><link>http://talkirish.com/forums/thread/9553.aspx</link><pubDate>Sat, 02 Nov 2013 05:40:55 GMT</pubDate><guid isPermaLink="false">0644754f-ff87-49dd-b5e3-0e104f790f4a:9553</guid><dc:creator>Brennan</dc:creator><slash:comments>0</slash:comments><comments>http://talkirish.com/forums/thread/9553.aspx</comments><wfw:commentRss>http://talkirish.com/forums/commentrss.aspx?SectionID=7&amp;PostID=9553</wfw:commentRss><description>&lt;p class="MsoNormal"&gt;I&amp;rsquo;ve just recently started learning Irish and I&amp;rsquo;m running
+into a problem/dilemma. Many of the sources that I&amp;rsquo;m using will often give
+multiple examples or ways to say different phrases based on the dialect of
+Irish (i.e Ulster, Connacht or Munster). I know a bit of spoken Irish already
+from my great grandma who came from a small town (Ballynacally) southwest of
+Ennis Co. Clare. This happens to be exactly in between the two dialect groups
+Connacht and Munster. I was wondering if anyone happened to know to which
+dialect (Connacht or Munster ) the Irish spoken there (around Ennis or Co.
+Clare in general) belongs. I haven&amp;rsquo;t the slightest clue when it comes to
+written Irish so I can&amp;rsquo;t tell for myself which dialect I speak in/am already
+familiar with. Any help would be greatly appreciated! &amp;nbsp;&amp;nbsp;&lt;/p&gt;&lt;div style="clear:both;"&gt;&lt;/div&gt;</description></item></channel></rss>

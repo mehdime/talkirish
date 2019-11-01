@@ -1,0 +1,1 @@
+﻿<rsd version="1.0"><service><engineName>Community Server</engineName><engineLink>http://communityserver.org</engineLink><homePageLink>http://talkirish.com/blogs/irishproverbaday/default.aspx</homePageLink><apis><api name="MetaWeblog" blogID="irishproverbaday" preferred="true" apiLink="http://talkirish.com/blogs/irishproverbaday/metablog.ashx" /></apis></service></rsd>

@@ -1,0 +1,1739 @@
+/*
+Generics
+*/
+
+body, html
+{
+	margin: 0;
+	padding: 0;
+	color: #000000;
+	font-family: Arial, Helvetica;
+	background-color: #eee;
+}
+
+#CommonOuter
+{
+}
+
+#Common
+{
+	min-width: 780px;
+}
+
+#CommonHeader
+{
+	width: 100%;
+}
+
+#CommonLeftColumn
+{
+	background-color: #D3E0F8;
+	padding-bottom: 22px;
+}
+
+#CommonRightColumn
+{
+	background-color: #fff;
+	padding-bottom: 22px;
+}
+
+A:LINK
+{
+	color: #000;
+	
+}
+
+A:ACTIVE
+{
+	color: #666;
+}
+
+A:VISITED
+{
+	color: #666;
+}
+
+A:HOVER
+{
+	text-decoration: underline;
+}
+
+SELECT
+{
+    font-family: Arial, Helvetica;
+    font-size: 90%;
+}
+
+TEXTAREA
+{
+    font-family: Arial, Helvetica;
+    font-size: 90%;
+}
+
+INPUT
+{
+    font-family: Arial, Helvetica;
+    font-size: 90%;
+}
+
+BUTTON
+{
+    font-family: Arial, Helvetica;
+    font-size: 90%;
+}
+
+/* 
+Tree Form Element
+*/
+
+.CommonTreeFormArea
+{
+	border-style: solid;
+	border-color: #999999;
+	border-width: 1px;
+	padding: 2px;
+	width: 350px;
+	height: 175px;
+	overflow: auto;
+	margin: 4px;
+	margin-left: 2px;
+}
+
+.CommonTreeFormNode
+{
+	font-family: Arial, Helvetica;
+	cursor: pointer;
+	font-size: 90%;
+}
+
+.CommonTreeFormNodeSelected
+{
+	font-family: Arial, Helvetica;
+	padding: 1px;
+	font-weight: bold;
+	background-color: #dddddd;
+	border-style: solid;
+	border-width: 1px;
+	border-color: #cccccc;
+	cursor: pointer;
+	font-size: 90%;
+}
+
+.CommonTreeFormNodeHover
+{
+	font-family: Arial, Helvetica;
+	cursor: pointer;
+	font-size: 90%;
+}
+
+/* 
+Title Bar Styles
+*/
+
+.CommonTitleBar
+{
+	background: #8DA6DD;
+	background-image: url('../images/common/header-gradient.jpg');
+	background-repeat: repeat-x;
+	background-position: left bottom;
+}
+
+.CommonTitleBarTitleAreaContainerLeft
+{
+	float: left;
+	background-image: url('../images/common/title.gif');
+	background-repeat: no-repeat;
+	background-position: 20px center;
+	height: 80px;
+	overflow: hidden;	
+	padding: 20px 0 0 114px;
+}
+
+.CommonTitleBarTitleAreaContainerRight
+{
+    background-color: #fff;
+    padding: 2px 6px 6px 0;
+    float: right; 
+    margin-right: 24px;
+    color: #999;
+    font-size: 16px;
+    border-left: solid #6D86BD 1px;
+    border-right: solid #6D86BD 1px;
+    border-bottom: solid #6D86BD 1px;
+    height: 1.1em;
+    overflow: hidden;
+}
+
+.CommonTitleBarTitleAreaContainerRight .Left
+{
+    background-color: #ddd;
+    padding: 2px 6px 6px 6px;
+    margin-right: 6px;
+}
+
+.CommonTitleBarTitleAreaContainerRight a
+{
+	color: #555;
+	font-size: 12px;
+	font-weight: bold;
+}
+
+.CommonTitleBarTitleAreaContainerRight span a
+{
+    font-weight: normal;
+}
+
+.CommonTitleBarTitleAreaContainerRight .CommonLinkSeparator
+{
+    border-right: dotted 1px #999;
+}
+
+.CommonTitleBarTitle
+{
+	padding: 0;
+	font-size: 200%;
+	letter-spacing: -1px;
+	color: #333;
+	margin: 0;
+	font-weight: bolder;
+}
+
+.CommonTitleBarTitle a
+{
+	color: #000;
+}
+
+.CommonTitleBarTitle span
+{
+    font-size: 50%;
+    font-weight: normal;
+    letter-spacing: normal;
+}
+
+.CommonApplicationBar
+{
+	font-size: 85%;
+	color: #333;
+	padding: 0 0 0 2px;
+	white-space: no-wrap;
+}
+
+.CommonApplicationBar .pipe
+{
+}
+
+.CommonApplicationBar select
+{
+	border: 1px solid #8DA6DD;
+	background-color: #ADC6FD;
+	color: #333;
+	padding: 1px;
+	margin: 0;
+}
+
+.CommonApplicationBar a
+{
+	color: #333;
+}
+
+/*
+Form Styles
+*/
+
+.FixedWidthContainer
+{
+}
+
+.DetailsFixedWidth
+{
+}
+
+.CommonFormArea
+{
+}
+
+.CommonFormTitle
+{
+	color: #333;
+	font-size: 140%;
+	font-weight: bold;
+	padding: 4px;
+	padding-left: 0px;
+	margin: 0px;
+}
+
+.CommonFormDescription
+{
+	padding: 8px 2px 8px 5px;
+	color: #666;
+}
+
+TD.CommonFormFieldName, DIV.CommonFormFieldName
+{
+	color: #666;
+	padding: 8px 2px 2px 5px;
+}
+
+TD.CommonFormFieldName
+{
+	padding-bottom: 12px;
+	border-bottom: 1px dotted #ddd;
+	vertical-align: top;
+}
+
+TD.CommonFormFieldName strong, DIV.CommonFormFieldName strong
+{
+	color: #333;
+	vertical-align: top;
+}
+
+TD.CommonFormFieldDescription, DIV.CommonFormFieldDescription
+{
+	color: #000000;
+	padding: 2px;
+	font-size: 90%;
+	font-weight: normal;
+	vertical-align: top;
+}
+
+TD.CommonFormField, DIV.CommonFormField
+{
+	padding: 8px 0 12px 5px;
+	border-bottom: 1px dotted #ddd;
+	vertical-align: top;
+}
+
+.CommonFormActionButtons
+{
+	color: #000000;
+	padding: 2px;
+	text-align: right;
+}
+
+.CommonBottomFormField
+{
+	margin-bottom: 8px;
+	margin-top: 0px;
+	padding-top: 0px;
+}
+
+.CommonMessageSuccess
+{
+	padding: 12px;
+	font-size: 100%;
+	color: #030;
+	font-weight: normal;
+	border: solid 1px #030;
+	background-color: #88dd88;
+	margin: 16px 0;
+}
+
+.CommonMessageWarning
+{
+	margin: 16px 0;
+	padding: 12px;
+	font-size: 100%;
+	color: #330;
+	font-weight: normal;
+	border: solid 1px #eec600;
+	background-color: #FFFFAA;
+}
+
+.CommonMessageError
+{
+	margin: z0;
+	padding: 12px;
+	font-size: 100%;
+	color: #000;
+	font-weight: normal;
+	border: solid 1px #300;
+	background-color: #d66;
+}
+
+.CommonLicenseMessageError
+{
+	top:  8px;
+	position: relative;
+	margin: 0;
+	margin-bottom: 16px;
+	padding: 12px;
+	font-size: 100%;
+	color: #fff;
+	font-weight: normal;
+	border: solid;
+	border-width: 1px;
+	border-color: #300;
+	background-color: #a00;
+}
+
+.CommonLicenseMessageError a
+{
+	color: #fff;
+}
+
+.CommonLicenseMessageWarning
+{
+	top:  8px;
+	position: relative;
+	margin: 0;
+	margin-bottom: 16px;
+	padding: 12px;
+	font-size: 100%;
+	color: #330;
+	font-weight: normal;
+	border: solid;
+	border-width: 1px;
+	border-color: #330;
+	background-color: #fff499;
+}
+
+.CommonTitleBar .CommonLicenseMessageError
+{
+    position: static;
+    margin: 0;
+    border-width: 0;
+    border-bottom-width: 1px;
+}
+
+.CommonTitleBar .CommonLicenseMessageWarning
+{
+    position: static;
+    margin: 0;
+    border-width: 0;
+    border-bottom-width: 1px;
+}
+
+/*
+Content
+*/
+
+.CommonTextBig
+{
+	margin: 1px;
+	padding: 5px;
+	font-family: Arial, Helvetica;
+	font-weight: bold;
+	font-size: 120%;
+}
+
+.CommonContentArea
+{
+	padding: 17px 17px 25px 17px;
+	margin: 0;
+	text-align: left;
+	background-color: #fff;
+}
+
+.CommonSubTitle, .CommonFormSubTitle
+{
+	margin: 15px 0 8px 0;
+	color: #333;
+	font-size: 100%;
+	font-weight: bold;
+	padding: 8px;
+	background-color: #ddd;
+}
+
+.CommonContent
+{
+	padding: 0px 8px 8px 8px;
+	font-family: Arial, Helvetica;
+	font-size: 100%;
+}
+
+.CommonGroupedContentArea
+{
+	padding-bottom: 8px;
+	margin-bottom: 16px;
+	border-style: dotted;
+	border-width: 0px;
+	border-bottom-width: 1px;
+	border-color: #ddd;
+}
+
+UL.CommonFloatList
+{
+	margin: 0px;
+	padding: 0px;
+	list-style-type: none;
+}
+
+UL.CommonFloatList LI
+{
+	margin-bottom: 8px;
+	clear: both;
+}
+
+.CommonDescription
+{
+	padding: 20px;
+	font-weight: bold;
+	font-size: 120%;
+	margin: 8px 0 24px 0;
+	color: #333;
+	background-color: #D8E5FF;
+}
+
+/*
+Text Button
+*/
+
+.CommonTextButton
+{
+	display: inline-table;
+	display: -moz-inline-box;
+	display: inline-block;
+	margin: 1px;
+	padding: 4px;
+	border-style: solid;
+	border-width: 1px;
+	border-color: #999999;
+	border-top-color: #cccccc;
+	border-left-color: #cccccc;
+	background-color: #eeeeee;
+	color: #333333;
+	font-family: Arial, Helvetica;
+	font-size: 80%;
+	font-weight: bold;
+	white-space: nowrap;
+}
+
+.CommonTextButton:LINK
+{
+	text-decoration: none;
+	color: #333333;
+	background-color: #eeeeee;
+}
+
+.CommonTextButton:VISITED
+{
+	text-decoration: none;
+	color: #333333;
+	background-color: #eeeeee;
+}
+
+.CommonTextButton:ACTIVE
+{
+	text-decoration: none;
+	color: #333333;
+}
+
+.CommonTextButton:HOVER
+{
+	text-decoration: underline;
+	color: #333333;
+	background-color: #dddddd;
+}
+
+.CommonTextButtonBig
+{
+	display: inline-table;
+	display: -moz-inline-box;
+	display: inline-block;
+	margin: 1px;
+	padding: 10px;
+	border-style: solid;
+	border-width: 1px;
+	border-color: #999999;
+	border-top-color: #cccccc;
+	border-left-color: #cccccc;
+	background-color: #eeeeee;
+	color: #333333;
+	font-family: Arial, Helvetica;
+	font-size: 120%;
+	white-space: nowrap;
+}
+
+.CommonTextButtonBig:LINK
+{
+	text-decoration: none;
+	color: #333333;
+	background-color: #eeeeee;
+}
+
+.CommonTextButtonBig:VISITED
+{
+	text-decoration: none;
+	color: #333333;
+	background-color: #eeeeee;
+}
+
+.CommonTextButtonBig:ACTIVE
+{
+	text-decoration: none;
+	color: #333333;
+}
+
+.CommonTextButtonBig:HOVER
+{
+	text-decoration: underline;
+	color: #333333;
+	background-color: #dddddd;
+}
+
+.CommonImageTextButton
+{
+	display: inline-table;
+	display: -moz-inline-box;
+	display: inline-block;
+	padding: 4px;
+	margin: 1px;
+	border-style: solid;
+	border-width: 1px;
+	border-color: #999999;
+	border-top-color: #cccccc;
+	border-left-color: #cccccc;
+	background-color: #eeeeee;
+	color: #333333;
+	font-family: Arial, Helvetica;
+	font-size: 80%;
+	font-weight: bold;
+	background-repeat: no-repeat;
+	background-position: 1px 1px;
+	padding-left: 22px;
+	line-height: normal;
+	white-space: nowrap;
+}
+
+.CommonImageTextButton:LINK
+{
+	text-decoration: none;
+	color: #333333;
+	margin: 1px;
+}
+
+.CommonImageTextButton:VISITED
+{
+	text-decoration: none;
+	color: #333333;
+}
+
+.CommonImageTextButton:ACTIVE
+{
+	text-decoration: none;
+	color: #333333;
+}
+
+.CommonImageTextButton:HOVER
+{
+	text-decoration: underline;
+	color: #333333;
+	background-color: #dddddd;
+}
+
+.CommonImageTextButtonHighlight
+{
+	display: inline-table;
+	display: -moz-inline-box;
+	display: inline-block;
+	margin: 1px;
+	padding: 4px;
+	border-style: solid;
+	border-width: 1px;
+	border-color: #999999;
+	border-top-color: #cccccc;
+	border-left-color: #cccccc;
+	background-color: #bbbbbb;
+	color: #333333;
+	font-family: Arial, Helvetica;
+	font-size: 80%;
+	font-weight: bold;
+	background-repeat: no-repeat;
+	background-position: 1px 1px;
+	padding-left: 22px;
+	line-height: normal;
+	white-space: nowrap;
+}
+
+.CommonImageTextButtonHighlight:LINK, .CommonImageTextButtonHighlight:VISITED, .CommonImageTextButtonHighlight:ACTIVE, .CommonImageTextButtonHighlight:HOVER
+{
+	text-decoration: none;
+	background-color: #bbbbbb;
+	color: #333333;
+}
+
+.CommonButtonInnerContentDown
+{
+	background-image: url(../images/common/button-down-arrow.gif);
+	padding-right: 9px;
+	background-repeat: no-repeat;
+	background-position: right center;
+}
+
+/*
+List 
+*/
+
+.CommonListArea
+{
+	padding-bottom: 8px;
+	padding-top: 8px;
+}
+
+.CommonListTitle
+{
+	padding: 6px 6px 6px 0;
+	color: #000;
+	font-size: 180%;
+	font-weight: bold;
+	margin: 0;
+}
+
+.CommonListTitle A, .CommonListTitle A:VISITED, .CommonListTitle A:ACTIVE
+{
+	color: #000;
+	text-decoration: none;
+}
+
+.CommonListTitle A:HOVER
+{
+    text-decoration: underline;
+}
+
+.CommonListHeaderLeftMost
+{
+	text-align: left;
+	padding: 6px;
+	background-color: #dfdfdf;
+	color: #666;
+	font-family: Arial, Helvetica;
+	font-weight: bold;
+}
+
+.CommonListHeader
+{
+	text-align: left;
+	padding: 6px;
+	background-color: #e3e3e3;
+	color: #666;
+	font-family: Arial, Helvetica;
+	font-weight: bold;
+}
+
+.PermissionHeaderCenter
+{
+	text-align: center;
+	font-size: .8em;
+}
+
+.CommonListCellLeftMost
+{
+	padding: 6px;
+	color: #333333;
+	font-family: Arial, Helvetica;
+}
+
+.CommonListCell
+{
+	padding: 6px;
+	color: #333333;
+	font-family: Arial, Helvetica;
+	text-align: left;
+}
+
+.CommonListCell.Status
+{
+	padding: 0px 15px 0px 15px;
+	text-align: center;
+}
+
+/*
+Validation Styles
+*/
+
+.CommonValidationWarning
+{
+	font-family: Arial, Helvetica;
+	font-size: 100%;
+	color: #ff0000;
+	font-weight: bold;
+	padding: 2px;
+}
+
+/*
+Context Menu Styles
+*/
+
+.CommonContextMenuGroup
+{
+	background-color:#ffffff;
+	border:solid 1px gray; 
+}
+
+.CommonContextMenuItem
+{
+	background-color:white; 
+	font-family: Arial, Helvetica; 
+	font-size:90%; 
+	border:solid 1px white; 
+	cursor:pointer;
+	padding: 3px;
+}
+
+.CommonContextMenuItemHover
+{
+	background-color:#ccc; 
+	color:black; 
+	font-family: Arial, Helvetica; 
+	font-size:90%; 
+	border:solid 1px #dddddd; 
+	cursor:pointer;
+	padding: 3px;
+}
+
+.CommonContextMenuItemExpanded
+{
+	background-color:silver; 
+	color:black; 
+	font-family: Arial, Helvetica; 
+	font-size:90%; 
+	border:solid 1px white; 
+	cursor:pointer;	
+	padding: 3px;
+}
+
+/* Modal Styles */
+
+.CommonModalMask
+{
+	opacity: .4;
+	filter: alpha(opacity=40);
+	background-color: #333;
+}
+
+.CommonModal
+{
+	background-color: #fff;
+	border: solid 6px #333;
+}
+
+.CommonModalTitle
+{
+	border-bottom: solid 1px #333;
+	padding: 8px 0 2px 0;
+	font-size: 150%;
+	margin: 0 8px;
+	font-weight: bold;
+	color: #333;
+	cursor: move;
+	min-height: 24px;
+}
+
+.CommonModalContent
+{
+	background-color: #fff;
+}
+
+.CommonModalFooter
+{
+	width: 100%;
+	height: 12px;
+}
+
+.CommonModalClose
+{
+	width: 16px;
+	height: 15px;
+	background-image: url(../images/common/close.gif);
+	background-repeat: no-repeat;
+	overflow: hidden;
+	cursor: pointer;
+	position: absolute;
+	right: 8px;
+	top: 8px;
+	margin: 0;
+}
+
+.CommonModalResize
+{
+	width: 12px;
+	height: 12px;
+	background-image: url(../images/common/resize.gif);
+	background-repeat: no-repeat;
+	overflow: hidden;
+	position: absolute;
+	right: 6px;
+	bottom: 6px;
+	cursor: se-resize;
+}
+
+/*
+Content Selector Styles 
+*/
+
+.CommonContentSelectorTreeArea
+{
+	background-color: #ffffff;
+	height: 330px;
+	margin: 5px;
+	margin-left: 0px;
+	border-style: solid;
+	border-width: 1px;
+	border-color: #999999;
+	overflow: auto;
+}
+
+.CommonContentSelectorItemsArea
+{
+	margin: 5px;
+	margin-right: 0px;
+	margin-left: 0px;
+	background-color: #ffffff;
+	border-style: solid;
+	border-width: 1px;
+	border-color: #999999;
+	overflow: auto;
+	padding: 4px;
+	height: 322px;
+}
+
+.CommonContentSelectorOptionsArea
+{
+	margin: 0px;
+	background-color: #ffffff;
+	border-style: solid;
+	border-width: 1px;
+	border-color: #999999;
+	padding: 4px;
+}
+
+.CommonContentSelectorTree
+{
+	padding: 0px;
+	height: 330px;
+	width: 215px;
+	overflow: visible;
+}
+
+.CommonContentSelectorTreeNode
+{
+	cursor: pointer;
+}
+
+.CommonContentSelectorTreeNodeSelected
+{
+	font-weight: bold;
+	cursor: pointer;
+}
+
+.CommonContentSelectorTreeNodeHover
+{
+	cursor: pointer;
+}
+
+.CommonContentSelectorItemArea
+{
+    float: left;
+}
+
+.CommonContentSelectorItem
+{
+	font-size: 90%;
+	border-style: solid;
+	border-width: 1px;
+	border-color: #cccccc;
+	cursor: pointer;
+	padding: 3px;
+	width: 79px;
+	height: 79px;
+	overflow: hidden;
+	margin: 6px;
+	margin-bottom: 0px;
+	text-align: center;
+	vertical-align: middle;
+}
+
+.CommonContentSelectorItemSelected
+{
+	font-size: 90%;
+	border-style: solid;
+	border-width: 3px;
+	border-color: #999999;
+	cursor: pointer;
+	padding: 1px;
+	width: 79px;
+	height: 79px;
+	overflow: hidden;
+	margin: 6px;
+	margin-bottom: 0px;
+	text-align: center;
+	vertical-align: middle;
+}
+
+.CommonContentSelectorItem img, .CommonContentSelectorItemSelected img
+{
+	margin-top: auto;
+	margin-bottom: auto;
+}
+
+.CommonContentSelectorItemName
+{
+	font-size: 90%;
+	font-weight: normal;
+	text-align: center;
+	cursor: pointer;
+	padding: 2px;
+	width: 83px;
+	height: 12px;
+	overflow: hidden;
+	margin: 6px;
+	margin-top: 1px;
+	margin-bottom: 16px;
+}
+
+.CommonContentSelectorItemNameSelected
+{
+	font-size: 90%;
+	font-weight: normal;
+	text-align: center;
+	background-color: #999999;
+	cursor: pointer;
+	padding: 2px;
+	width: 83px;
+	height: 12px;
+	overflow: hidden;
+	margin: 6px;
+	margin-top: 1px;
+	margin-bottom: 16px;
+}
+
+.CommonContentSelectorButtonArea
+{
+	text-align: right;
+	margin: 5px;
+}
+
+/* End Tag Styles */
+
+.CommonSearchArea
+{
+	margin-bottom: 8px;
+	margin-top: 16px;
+	padding: 6px;
+	background-color: #f3f3f3;
+	border-style: solid;
+	border-width: 1px;
+	border-color: #cccccc;
+}
+
+.CommonSearchArea table
+{
+	margin-left: auto;
+	margin-right: auto;
+}
+
+/*
+TabPane Styles
+*/
+
+.CommonPane
+{
+	padding: 10px;
+	border: solid 1px #999;
+	border-top-width: 0;
+}
+
+.CommonPaneTabSet
+{
+	background-color: #ccc;
+	background-image: url(../images/common/tabset.gif);
+	background-position: bottom left;
+	background-repeat: repeat-x;
+	border: solid 1px #999;
+	border-bottom: 0;
+	padding: 4px 4px 0 12px;
+	margin-top: 14px;
+}
+
+.CommonPaneTab
+{
+	padding: 3px 12px 5px 12px;
+	cursor: pointer;
+	font-weight: bold;
+	color: #666;
+	border: dotted 1px #bbb;
+	border-bottom: 0;
+	margin-right: 7px;
+}
+
+.CommonPaneTabSelected
+{
+	padding: 3px 12px 5px 12px;
+	background: #fff;
+	margin-right: 7px;
+	margin-bottom: 0px;
+	font-weight: bold;
+	border: solid 1px #999;
+	border-bottom: 0;
+	cursor: pointer;
+	color: #000;
+}
+
+.CommonPaneTabHover
+{
+	padding: 3px 12px 5px 12px;
+	cursor: pointer;
+	font-weight: bold;
+	color: #000;
+	border: dotted 1px #bbb;
+	border-bottom: 0;
+	margin-right: 7px;
+}
+
+/* Control Panel Overrides */
+
+#ControlPanelFooter
+{
+    border-top: solid 2px #999;
+	padding: 12px 24px 24px 24px;
+	text-align:center;
+}
+
+#ControlPanelFooter a
+{
+	color: #333333;
+}
+
+.CommonMessageSuccess
+{
+	position: relative;
+}
+
+.CommonMessageError
+{
+	position: relative;
+}
+
+/* Control Panel (CP) Styles */
+
+.ControlPanelTextInput
+{
+	width: 90%;
+}
+
+.ControlPanelTextInputBig
+{
+	width: 90%;
+	font-size: 130%;
+}
+   
+#Actions
+{
+	padding-top:10px;
+	padding-bottom:10px;
+}
+
+#Filters
+{
+	padding-top:10px;
+	padding-bottom:10px;
+	text-align:right;
+}
+
+/* Control Panel overrides */
+
+FORM
+{
+	margin: 0px;
+	padding: 0px;
+}
+
+.PanelSaveButton
+{
+	text-align:right;
+	padding-top: 5px;
+}
+
+.BlogThemeConfigurationButtonArea
+{
+	margin-top: 10px; 
+	margin-bottom: 10px;
+}
+
+/* Control Panel (BCP) styles */
+#DashboardSidebarArea
+{
+	float: none;
+	padding: 0px 0px 0px 20px;
+	margin: 0 auto;
+	border-left: 1px solid #CCC;
+	vertical-align: top;
+	width: 250px;
+}
+
+#DashboardMainContentArea
+{
+	vertical-align: top;
+	margin: 0 auto;
+}
+
+#DashboardMainContentArea td
+{
+	width: 50%;
+}
+
+#DashboardContentArea a
+{
+	cursor: pointer;
+}
+
+#DashboardContentArea a:hover
+{
+	cursor: pointer;
+	border: 1px solid #000;
+}
+
+.CommonDashboardContentFooter
+{
+	min-height: 10px;
+}
+
+.CommonDashboardAreaContainer
+{
+	width: 49.99%;
+	float: left;
+}
+.CommonDashboardArea
+{
+	margin-bottom: 10px;
+	margin-right: 20px;
+	background-color: #F5F5F5;
+}
+
+.DashboardTileTitle
+{
+	color: #555;
+	font-size: 11px;
+	padding: 5px 5px;
+	background: #E4E4E4 url(../images/tile-title-bg.gif) repeat-x;
+	background-position: left bottom;
+}
+
+.DashboardTileTitle a
+{
+	color: #2D467D;
+	font-size: 16px;
+	font-weight: bold;
+	text-decoration: none;
+}
+
+.DashboardTileTitle a:hover
+{
+    text-decoration: underline;
+}
+
+#DashboardSidebarArea .DashboardTileTitle
+{
+	background: #8DA6DD;
+	color: #FFF;
+	font-size: 14px;
+}
+
+#DashboardSidebarArea .DashboardTileTitle a
+{
+	font-size: 10px;
+	color: #eee;
+	margin-left: 60px;
+}
+
+.DashboardTileDescription
+{
+	font-size: 12px;
+	color: #555;
+	margin-bottom: 0 5px 5px 0;
+	padding: 2px 2px 8px 2px;
+	border-bottom: 1px dotted #ccc;
+}
+
+.ToolsArea
+{
+	width: 18%;
+}
+
+.CommonDashboardSidebarArea
+{
+	float: none;
+	width: auto;
+	padding: 0px;
+	margin: 0px;
+	margin-bottom: 25px;
+}
+
+.AnnouncementsContent
+{
+	color: #DDD;
+	font-size: 10px;
+}
+
+.AnnouncementsContent div
+{
+	border-top: solid 1px #ccc;
+	margin-right: 10px;
+	margin-bottom: 15px;
+	color: #666;
+}
+
+.AnnouncementsContent a
+{
+	color: #8DA6DD;
+	font-size: 12px;
+	font-weight: bolder;
+	text-decoration: none;
+}
+
+.AnnouncementsContent li
+{
+	word-wrap: break-word; /* Internet Explorer */ 
+}
+
+.ClearFloat
+{
+	clear: both;
+}
+
+.CommonDashboardContent
+{
+	padding: 5px 0px 10px 5px;
+    min-height: 130px;
+    font-size: 80%;
+}
+
+.CommonDashboardContentFooter
+{
+	padding: 4px;
+	border-top: dotted 1px #ccc;
+	text-align: right;
+	font-size: 90%;
+	margin-right: 5px;
+	margin-left: 5px;
+}
+
+.CommonDashboardContentFooter a
+{
+    color: #2D467D;
+}
+
+ul.CommonDashboardActionList
+{
+	margin: 0px;
+	padding: 5px
+}
+
+ul.CommonDashboardActionList li
+{
+	margin: 0px;
+	margin-bottom: 5px;
+	padding: 0px;
+	list-style-type: none;	
+	margin-left: 16px;
+	color: #698d73;
+}
+
+.AnnouncementsContent ul.CommonDashboardActionList li
+{
+	margin-left: 10px;
+}
+
+#DashboardSidebarArea .CommonDashboardContentFooter a
+{
+	color: #69739A;
+	font-style: italic;
+}
+
+#DashboardSidebarArea .CommonDashboardContent
+{
+    min-height: 0;
+}
+
+.RolesListBox
+{
+	width:200px;
+	height:250px;
+	border: solid 1px #000000;
+}
+
+legend
+{
+	color: #000;
+	font-weight: bold;
+}
+
+.AltListRow
+{
+    background-color: #f4f4f4;
+}
+
+.OptionsFieldName
+{
+	font-family: Arial, Helvetica;
+	color: #000000;
+	padding: 2px;
+	padding-top: 8px;
+}
+
+.ContentFilterColumn
+{
+	font-weight: bold;
+}
+
+.PostViewsCell, .PostCommentsCell, .PostImageStatusCell, .PostHeader
+{
+	font-weight: bold;
+	text-align: center;
+}
+
+.PhotoHorizontalLine
+{
+	color: #545454;
+	margin-left: -5px;
+	position: static; 
+	width: 170px !important;
+}
+
+.PhotoGridSubject
+{
+	text-align: center; 
+	padding: 5px; 
+	border: 1px solid transparent; 
+	width: 160px; 
+	float: left;
+}
+
+/* Forums Folder Tree */
+.ForumFolderTree
+{
+	padding: 0px;
+}
+
+.ForumFolderTreeNode
+{
+	font-family: Arial, Helvetica; 
+	font-size: 11px; 
+	padding: 2px;
+	padding-left: 3px;
+	cursor: pointer;
+}
+
+.ForumFolderTreeNodeSelected
+{
+	font-family: Arial, Helvetica; 
+	font-size: 11px; 
+	background-color: #e2eecd; 
+	padding: 1px;
+	border: solid 1px #dddddd;
+	cursor: pointer;
+}
+
+.ForumFolderTreeNodeHover
+{
+	font-family: Arial, Helvetica; 
+	font-size: 11px; 
+	padding: 2px;
+	padding-left: 3px;
+	background-color: #e2eecd;
+	cursor: pointer;
+}
+
+/* 
+Theme Styles
+*/
+
+.CommonThemePreviewTextColumn
+{
+    width: 186px;
+    border-style: solid;
+    border-width: 0px;
+    border-bottom-width: 1px;
+    border-bottom-color: #ccc;
+}
+
+.CommonThemePreviewTextColumn h4
+{
+    width: 174px;
+    overflow: hidden;
+    font-size: 110%;
+    font-weight: bold;
+    margin: 0px;
+    margin-top: 6px;
+    padding: 0 6px 0 6px;
+}
+
+.CommonThemePreviewTextColumn div
+{
+    width: 174px;
+    overflow: hidden;
+    padding: 6px;
+    font-size: 80%;
+}
+
+.CommonThemePreviewImageColumn
+{
+    width: 218px;
+    border-style: solid;
+    border-width: 0px;
+    border-bottom-width: 1px;
+    border-bottom-color: #ccc;
+}
+
+.CommonThemePreviewImageColumn div
+{
+    width: 200px;
+    height: 90px;
+    margin: 6px;
+    background-color: #ccc;
+    padding-top: 60px;
+    text-align: center;
+    border-style: solid;
+    border-width: 1px;
+    border-color: #000;
+}
+
+.CommonThemePreviewImageColumn img
+{
+    width: 200px;
+    height: 150px;
+    border-style: solid;
+    border-width: 1px;
+    border-color: #000;
+    margin: 6px;
+ }
+ 
+.CommonFileSelectionArea
+{
+    background-color: #ccc;
+    margin-bottom: 8px;
+    margin-top: 4px;
+    border: solid 1px #999;
+}
+
+.CommonFileSelectionArea input
+{
+    margin: 2px;
+}
+ 
+.CommonFileSelectionPreviewArea
+{
+    text-align: center;
+    background-color: #fff;
+    border: solid 0px #999;
+    border-bottom-width: 1px;
+    padding: 4px;
+    font-size: 80%;
+    color: #999;
+    overflow: hidden;
+}
+
+.CommonFileSelectionPreviewArea img
+{
+    max-width: 250px;
+    max-height: 100px;
+}
+
+/* Help Icon */
+.helpicon
+{
+	border-style:none;
+	height:16px;
+	width:16px
+}
+a.helpicon
+{
+	border-style:none;
+	height: 20px;
+	background-image: url(../images/common/help_out_lt.gif);
+	background-position: left top;
+	background-repeat: no-repeat;
+}
+a.helpicon:hover, a.helpicon:active 
+{
+	background-image:url(../images/common/help_hover.gif);
+	background-position: left top;
+	background-repeat: no-repeat;
+	cursor:help;
+}
+
+/* Nav bar */
+
+.CommonPanelNavigation
+{
+	border-top: solid 1px #6D86BD;
+	background-color: #8DA6DD;
+}
+
+.CommonPanelNavigation ul
+{
+	display: none;
+}
+
+.NavPane
+{
+	padding: 0;
+	margin: 0;
+}
+
+.NavPaneTabSet
+{
+	background-color: #8DA6DD;
+	padding: 6px 4px 0 12px;
+	clear: both;
+	margin-left: 104px;
+}
+
+.NavPaneTab
+{
+	padding: 3px 12px 7px 12px;
+	cursor: pointer;
+	font-weight: bold;
+	color: #000;
+	margin-right: 7px;
+	border: 1px dotted #7d96cd;
+	border-bottom-width: 0;
+}
+
+.NavPaneTabSelected
+{
+	padding: 3px 12px 7px 12px;
+	background: #999;
+	margin-right: 7px;
+	margin-bottom: 0px;
+	font-weight: bold;
+	border: solid 1px #666;
+	border-bottom: 0;
+	cursor: pointer;
+	color: #fff;
+}
+
+.NavPaneTabHover
+{
+	padding: 3px 12px 7px 12px;
+	cursor: pointer;
+	font-weight: bold;
+	color: #fff;
+	margin-right: 7px;
+	border: 1px dotted #7d96cd;
+	border-bottom-width: 0;
+}
+
+.ChildNavPaneTabSet
+{
+	background-color: #999;
+	padding: 8px 4px 0 12px;
+}
+
+.ChildNavPaneTab
+{
+	padding: 2px 6px 7px 6px;
+	cursor: pointer;
+	color: #000;
+	margin-right: 4px;
+	font-size: .8em;
+	border: 1px dotted #aaa;
+	border-bottom-width: 0;
+}
+
+.ChildNavPaneTabSelected
+{
+	padding: 2px 6px 7px 6px;
+	background: #fff;
+	margin-right: 4px;
+	margin-bottom: 0px;
+	font-weight: bold;
+	border: solid 1px #666;
+	border-bottom: 0;
+	cursor: pointer;
+	color: #000;
+	font-size: .8em;
+}
+
+.ChildNavPaneTabHover
+{
+	padding: 2px 6px 7px 6px;
+	cursor: pointer;
+	color: #fff;
+	margin-right: 4px;
+	font-size: .8em;
+	border: 1px dotted #aaa;
+	border-bottom-width: 0;
+}
+
+.CommonPanelNavigation
+{
+	position: relative;
+	overflow: hidden;
+	clear: both;
+}
+
+.DashboardMenuArea
+{
+	position: absolute;
+	left: 0;
+	top: 0;
+	width: 100px;
+	margin: 0;
+	background-color: #8DA6DD;
+	padding: 6px 4px 0 12px;
+	overflow: hidden;
+}
+
+.DashboardMenuAreaFull
+{
+	padding: 6px 4px 0 12px;
+	overflow: hidden;
+}
+
+a.DashboardMenu, a.DashboardMenuOpen
+{
+	display: block;
+	padding: 3px 12px 6px 12px;
+	cursor: pointer;
+	font-weight: bold;
+	color: #000;
+	margin: 0 7px 1px 0;
+	border: 1px dotted #7d96cd;
+	background-color: #9EB4E5;
+	border-bottom-width: 0;
+	width: 70px;
+	overflow: hidden;
+	text-decoration: none;
+}
+
+a.DashboardMenuOpen
+{
+	background-color: #f3f3f3;
+	border-right: 1px solid #666;
+	border-left: 1px solid #fff;
+	border-top: 1px solid #f3f3f3;
+}
+
+.DashboardContextMenuGroup
+{
+	background-color:#F3F3F3;
+	border-right: 1px solid #666;
+	border-bottom: 1px solid #666;
+	border-left: 1px solid #fff;
+	padding: 10px;
+}
+
+.DashboardContextMenuItem
+{
+	background-color:F3F3F3; 
+	font-family: Arial, Helvetica; 
+	font-size:90%; 
+	border-bottom: solid 1px #d7d7d7;
+	cursor:pointer;
+	padding: 6px 20px 6px 6px;
+	color: #333;
+	font-weight: bold;
+}
+
+.DashboardContextMenuItemHover
+{
+	background-color:#d7d7d7; 
+	color: #000; 
+	font-family: Arial, Helvetica; 
+	font-size:90%; 
+	border-bottom: solid 1px #d7d7d7;
+	cursor:pointer;
+	padding: 6px 20px 6px 6px;
+	font-weight: bold;
+}

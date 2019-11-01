@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<?xml-stylesheet type="text/xsl" href="http://talkirish.com/utility/FeedStylesheets/rss.xsl" media="screen"?><rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:slash="http://purl.org/rss/1.0/modules/slash/" xmlns:wfw="http://wellformedweb.org/CommentAPI/"><channel><title>The Irish Language - Grammar, Pronunciation, Games, Myths, Poetry and more</title><link>http://talkirish.com/forums/40.aspx</link><description>A great place to discuss Irish grammar, pronunciation, and vocabulary.  You'll also find lots of help and information on Irish translations, Irish myths and legends, and Irish poetry. And here's where we have some Irish word games and lots of useful tips on language learning.</description><dc:language>en</dc:language><generator>CommunityServer 2008 SP1 (Build: 30619.63)</generator><item><title>Re: Translation of something very basic</title><link>http://talkirish.com/forums/thread/8174.aspx</link><pubDate>Thu, 28 Mar 2013 00:24:57 GMT</pubDate><guid isPermaLink="false">0644754f-ff87-49dd-b5e3-0e104f790f4a:8174</guid><dc:creator>carolb</dc:creator><slash:comments>0</slash:comments><comments>http://talkirish.com/forums/thread/8174.aspx</comments><wfw:commentRss>http://talkirish.com/forums/commentrss.aspx?SectionID=40&amp;PostID=8174</wfw:commentRss><description>&lt;p&gt;Hi&lt;/p&gt;
+&lt;p&gt;I think it is&lt;/p&gt;
+&lt;p&gt;&amp;#39;Bh&amp;iacute; s&amp;eacute; ag cur sneachta agus anois t&amp;aacute; s&amp;eacute; fuar&amp;#39;&lt;/p&gt;
+&lt;p&gt;and I would pronounce it &lt;/p&gt;
+&lt;p&gt;&amp;#39;Vee Shay egg ker shnackta aus anish taw shay fooa&amp;#39;&lt;/p&gt;
+&lt;p&gt;But see what other people say as I&amp;#39;m Conacht.&lt;/p&gt;&lt;div style="clear:both;"&gt;&lt;/div&gt;</description></item><item><title>Translation of something very basic</title><link>http://talkirish.com/forums/thread/8172.aspx</link><pubDate>Sun, 24 Mar 2013 12:22:35 GMT</pubDate><guid isPermaLink="false">0644754f-ff87-49dd-b5e3-0e104f790f4a:8172</guid><dc:creator>Noper</dc:creator><slash:comments>0</slash:comments><comments>http://talkirish.com/forums/thread/8172.aspx</comments><wfw:commentRss>http://talkirish.com/forums/commentrss.aspx?SectionID=40&amp;PostID=8172</wfw:commentRss><description>&lt;p&gt;Hello&lt;/p&gt;
+&lt;p&gt;I&amp;#39;m slowly learning the basics of the language and would appreciate some help with something random;&lt;/p&gt;
+&lt;p&gt;I want to pronounce &amp;quot;It was snowing and now it is cold&amp;quot;&lt;/p&gt;
+&lt;p&gt;I have &amp;quot;Bhi se ag cur sneachta agus &lt;span id="result_box" class="short_text"&gt;&lt;span class="hps"&gt;t&amp;aacute; s&amp;eacute; fuar anois&amp;quot;.&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;I&amp;#39;m wondering if this is correct and;&lt;/p&gt;
+&lt;p&gt;If it is correct could someone gave me some guidance on pronunciation.&amp;nbsp; The first part of the sentence is what I&amp;#39;m having the most trouble with.&lt;/p&gt;
+&lt;p&gt;If it&amp;#39;s not correct could someone correct it and help with the pronunciation.&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;I&amp;#39;m based in Ulster if that makes a difference.&lt;/p&gt;
+&lt;p&gt;Appreciate any help.&amp;nbsp; Thanks.&lt;/p&gt;&lt;div style="clear:both;"&gt;&lt;/div&gt;</description></item></channel></rss>

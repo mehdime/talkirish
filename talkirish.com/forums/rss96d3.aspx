@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<?xml-stylesheet type="text/xsl" href="http://talkirish.com/utility/FeedStylesheets/rss.xsl" media="screen"?><rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:slash="http://purl.org/rss/1.0/modules/slash/" xmlns:wfw="http://wellformedweb.org/CommentAPI/"><channel><title>General</title><link>http://talkirish.com/forums/7.aspx</link><description>This is where general discussions about Ireland and the Irish language take place. Also, if you would like to introduce yourself, please feel free to do that here. We may post announcements about the website in this board from time to time.</description><dc:language>en</dc:language><generator>CommunityServer 2008 SP1 (Build: 30619.63)</generator><item><title>Words of song</title><link>http://talkirish.com/forums/thread/12143.aspx</link><pubDate>Fri, 25 Dec 2015 23:46:59 GMT</pubDate><guid isPermaLink="false">0644754f-ff87-49dd-b5e3-0e104f790f4a:12143</guid><dc:creator>Kilshannig</dc:creator><slash:comments>0</slash:comments><comments>http://talkirish.com/forums/thread/12143.aspx</comments><wfw:commentRss>http://talkirish.com/forums/commentrss.aspx?SectionID=7&amp;PostID=12143</wfw:commentRss><description>&lt;p&gt;Hi all&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;I have been trying for ages to find the words of an Irish song called The Irish Mail. It tells the story of the crash of The Irish Mail train in Walez as it wentfrom London Euston to Holyhead. It starts as follows&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&amp;quot;Leaving Euston station and its early in the day&lt;/p&gt;
+&lt;p&gt;Goodbye goodbye good people we are sailing home today&lt;/p&gt;
+&lt;p&gt;Holyhead our destination then across the sea&lt;/p&gt;
+&lt;p&gt;Dublin town will sse us all back in our own country&amp;quot;&lt;/p&gt;
+&lt;p&gt;Any help is appreciated.&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;Go raibh mile maith agat&lt;/p&gt;&lt;div style="clear:both;"&gt;&lt;/div&gt;</description></item></channel></rss>

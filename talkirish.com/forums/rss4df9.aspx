@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<?xml-stylesheet type="text/xsl" href="http://talkirish.com/utility/FeedStylesheets/rss.xsl" media="screen"?><rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:slash="http://purl.org/rss/1.0/modules/slash/" xmlns:wfw="http://wellformedweb.org/CommentAPI/"><channel><title>General</title><link>http://talkirish.com/forums/7.aspx</link><description>This is where general discussions about Ireland and the Irish language take place. Also, if you would like to introduce yourself, please feel free to do that here. We may post announcements about the website in this board from time to time.</description><dc:language>en</dc:language><generator>CommunityServer 2008 SP1 (Build: 30619.63)</generator><item><title>Re: Talk Irish shortlisted for FOUR Irish Web Awards</title><link>http://talkirish.com/forums/thread/4039.aspx</link><pubDate>Mon, 05 Oct 2009 04:51:30 GMT</pubDate><guid isPermaLink="false">0644754f-ff87-49dd-b5e3-0e104f790f4a:4039</guid><dc:creator>seano</dc:creator><slash:comments>0</slash:comments><comments>http://talkirish.com/forums/thread/4039.aspx</comments><wfw:commentRss>http://talkirish.com/forums/commentrss.aspx?SectionID=7&amp;PostID=4039</wfw:commentRss><description>&lt;p&gt;Ar fheabhas &lt;img src="http://talkirish.com/emoticons/emotion-1.gif" alt="Smile" /&gt;&lt;/p&gt;&lt;div style="clear:both;"&gt;&lt;/div&gt;</description></item><item><title>Re: Talk Irish shortlisted for FOUR Irish Web Awards</title><link>http://talkirish.com/forums/thread/3864.aspx</link><pubDate>Thu, 24 Sep 2009 16:38:33 GMT</pubDate><guid isPermaLink="false">0644754f-ff87-49dd-b5e3-0e104f790f4a:3864</guid><dc:creator>hallion</dc:creator><slash:comments>0</slash:comments><comments>http://talkirish.com/forums/thread/3864.aspx</comments><wfw:commentRss>http://talkirish.com/forums/commentrss.aspx?SectionID=7&amp;PostID=3864</wfw:commentRss><description>&lt;p&gt;Comhghairdeachas leat! &amp;Aacute;dh m&amp;oacute;r ort!&lt;/p&gt;
+&lt;p&gt;&lt;img src="http://talkirish.com/emoticons/emotion-22.gif" alt="Beer" /&gt;&lt;/p&gt;&lt;div style="clear:both;"&gt;&lt;/div&gt;</description></item><item><title>Talk Irish shortlisted for FOUR Irish Web Awards</title><link>http://talkirish.com/forums/thread/3863.aspx</link><pubDate>Thu, 24 Sep 2009 06:16:46 GMT</pubDate><guid isPermaLink="false">0644754f-ff87-49dd-b5e3-0e104f790f4a:3863</guid><dc:creator>michelle</dc:creator><slash:comments>0</slash:comments><comments>http://talkirish.com/forums/thread/3863.aspx</comments><wfw:commentRss>http://talkirish.com/forums/commentrss.aspx?SectionID=7&amp;PostID=3863</wfw:commentRss><description>&lt;p&gt;T&amp;aacute; m&amp;eacute; iontach s&amp;aacute;sta - go raibh maith agaibh!&lt;/p&gt;
+&lt;h3&gt;
+&lt;span style="font-family:arial,helvetica,sans-serif;font-size:xx-small;"&gt;Best New Web Application/Service&lt;/span&gt;
+&lt;/h3&gt;
+&lt;h3&gt;
+&lt;span style="font-family:arial,helvetica,sans-serif;font-size:xx-small;"&gt;Best Discussion forum&lt;/span&gt;
+&lt;/h3&gt;
+&lt;h3&gt;
+&lt;span style="font-family:arial,helvetica,sans-serif;font-size:xx-small;"&gt;Best Education and Third Level Website &lt;/span&gt;
+&lt;/h3&gt;
+&lt;h3&gt;
+&lt;span style="font-family:arial,helvetica,sans-serif;font-size:xx-small;"&gt;An Su&amp;iacute;omh Gaeilge is Fear&lt;/span&gt;
+&lt;/h3&gt;
+&lt;p&gt;http://awards.ie/webawards/&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;div style="clear:both;"&gt;&lt;/div&gt;</description></item></channel></rss>

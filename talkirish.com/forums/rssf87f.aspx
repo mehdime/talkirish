@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<?xml-stylesheet type="text/xsl" href="http://talkirish.com/utility/FeedStylesheets/rss.xsl" media="screen"?><rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:slash="http://purl.org/rss/1.0/modules/slash/" xmlns:wfw="http://wellformedweb.org/CommentAPI/"><channel><title>General</title><link>http://talkirish.com/forums/7.aspx</link><description>This is where general discussions about Ireland and the Irish language take place. Also, if you would like to introduce yourself, please feel free to do that here. We may post announcements about the website in this board from time to time.</description><dc:language>en</dc:language><generator>CommunityServer 2008 SP1 (Build: 30619.63)</generator><item><title>Re: Need help with asking questions!</title><link>http://talkirish.com/forums/thread/11971.aspx</link><pubDate>Thu, 15 Oct 2015 20:53:21 GMT</pubDate><guid isPermaLink="false">0644754f-ff87-49dd-b5e3-0e104f790f4a:11971</guid><dc:creator>Dale D</dc:creator><slash:comments>0</slash:comments><comments>http://talkirish.com/forums/thread/11971.aspx</comments><wfw:commentRss>http://talkirish.com/forums/commentrss.aspx?SectionID=7&amp;PostID=11971</wfw:commentRss><description>&lt;p&gt;Hello.&lt;/p&gt;
+&lt;p&gt;To ask if someone likes something, in Irish, is done by asking if it is good with him/her, employing the copula &amp;quot;is&amp;quot;. &amp;nbsp;There isn&amp;#39;t really a verb &amp;quot;to like&amp;quot;.&lt;/p&gt;
+&lt;p&gt;To say that you like something is, &amp;quot;Is maith liom &amp;eacute;&amp;quot; Literally, &amp;quot;It is good with me.&amp;quot;&lt;/p&gt;
+&lt;p&gt;To say that he/she likes something is, &amp;quot;Is maith leis/l&amp;eacute;i &amp;eacute;&amp;quot; (It is good with him/with her).&lt;/p&gt;
+&lt;p&gt;To ask the question, you use the interrogative form of the copula, &amp;quot;An&amp;quot;.&lt;/p&gt;
+&lt;p&gt;&lt;i&gt;An maith leis si&amp;uacute;cra?&lt;/i&gt;&amp;nbsp; &amp;quot;Does he like sugar?&amp;quot;&lt;/p&gt;
+&lt;p&gt;&lt;i&gt;An maith le Se&amp;aacute;n bainne?&lt;/i&gt;&amp;nbsp; &amp;quot;Does John like milk?&amp;quot;&lt;/p&gt;
+&lt;p&gt;To ask if someone &lt;i&gt;would&lt;/i&gt;&amp;nbsp;like something, a couple of adjustments are needed. &amp;nbsp;First, start with &lt;i&gt;Ar&lt;/i&gt;&amp;nbsp;instead of &lt;i&gt;An&lt;/i&gt;, and &lt;i&gt;maith&lt;/i&gt;&amp;nbsp;is lenited to &lt;i&gt;mhaith.&lt;/i&gt;&lt;/p&gt;
+&lt;p&gt;&lt;i&gt;Ar mhaith leis si&amp;uacute;cra? &amp;nbsp;&lt;/i&gt;&amp;quot;Would he like sugar?&amp;quot;&lt;/p&gt;
+&lt;p&gt;&lt;i&gt;Ar mhaith le Se&amp;aacute;n bainne? &amp;nbsp;&amp;quot;&lt;/i&gt;Would John like milk?&amp;quot;&lt;/p&gt;
+&lt;p&gt;To change the person being used, change the prepositional pronoun: &amp;nbsp;&lt;i&gt;liom&lt;/i&gt;&amp;nbsp;&amp;quot;with me&amp;quot; &amp;nbsp;(I like); &lt;i&gt;leat&lt;/i&gt;&amp;nbsp;&amp;quot;with you&amp;quot; (you like); &lt;i&gt;linn&lt;/i&gt;&amp;nbsp;&amp;quot;with us&amp;quot; (we like); &lt;i&gt;libh&lt;/i&gt;&amp;nbsp;&amp;quot;with you (plural) &amp;nbsp;(you (plural) like); &lt;i&gt;leo &lt;/i&gt;&amp;quot;with them&amp;quot; (they like).&lt;/p&gt;
+&lt;p&gt;The reply to &lt;i&gt;would he like...&lt;/i&gt;&amp;nbsp;is given with &lt;i&gt;Ba&lt;/i&gt;&amp;nbsp;in the affirmative, &lt;i&gt;N&amp;iacute;or&lt;/i&gt;&amp;nbsp;in the negative.&lt;/p&gt;
+&lt;p&gt;&lt;i&gt;Ba mhaith leis si&amp;uacute;cra. &amp;nbsp;&lt;/i&gt;&amp;quot;He would like sugar.&amp;quot;&lt;/p&gt;
+&lt;p&gt;&lt;i&gt;N&amp;iacute;or mhaith le Se&amp;aacute;n bainne.&lt;/i&gt;&amp;nbsp; &amp;quot;John would not like milk.&amp;quot;&lt;/p&gt;
+&lt;p&gt;&amp;Aacute;dh m&amp;oacute;r.&lt;/p&gt;
+&lt;p&gt;Dale D&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;div style="clear:both;"&gt;&lt;/div&gt;</description></item><item><title>Need help with asking questions!</title><link>http://talkirish.com/forums/thread/11967.aspx</link><pubDate>Thu, 15 Oct 2015 01:55:27 GMT</pubDate><guid isPermaLink="false">0644754f-ff87-49dd-b5e3-0e104f790f4a:11967</guid><dc:creator>Ajlec12</dc:creator><slash:comments>0</slash:comments><comments>http://talkirish.com/forums/thread/11967.aspx</comments><wfw:commentRss>http://talkirish.com/forums/commentrss.aspx?SectionID=7&amp;PostID=11967</wfw:commentRss><description>&lt;p&gt;Hi. &amp;nbsp;I was wondering how you say&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;Does he like &amp;nbsp; &amp;nbsp;?&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;And&lt;/p&gt;
+&lt;p&gt;Does John like &amp;nbsp; &amp;nbsp; ?&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;Thank you!&amp;nbsp;&lt;/p&gt;&lt;div style="clear:both;"&gt;&lt;/div&gt;</description></item></channel></rss>

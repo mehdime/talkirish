@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<?xml-stylesheet type="text/xsl" href="http://talkirish.com/utility/FeedStylesheets/rss.xsl" media="screen"?><rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:slash="http://purl.org/rss/1.0/modules/slash/" xmlns:wfw="http://wellformedweb.org/CommentAPI/"><channel><title>General</title><link>http://talkirish.com/forums/7.aspx</link><description>This is where general discussions about Ireland and the Irish language take place. Also, if you would like to introduce yourself, please feel free to do that here. We may post announcements about the website in this board from time to time.</description><dc:language>en</dc:language><generator>CommunityServer 2008 SP1 (Build: 30619.63)</generator><item><title>Re: translation</title><link>http://talkirish.com/forums/thread/11694.aspx</link><pubDate>Sun, 08 Mar 2015 20:10:19 GMT</pubDate><guid isPermaLink="false">0644754f-ff87-49dd-b5e3-0e104f790f4a:11694</guid><dc:creator>seano</dc:creator><slash:comments>0</slash:comments><comments>http://talkirish.com/forums/thread/11694.aspx</comments><wfw:commentRss>http://talkirish.com/forums/commentrss.aspx?SectionID=7&amp;PostID=11694</wfw:commentRss><description>&lt;p&gt;Absolutely right! Apparently Ed Sheerin got a real turkey of an Irish tattoo last year! &lt;/p&gt;
+&lt;p&gt;This is correct for your tattoo:&lt;/p&gt;
+&lt;p&gt;deartha in &amp;Eacute;irinn&lt;/p&gt;
+&lt;p&gt;d&amp;eacute;anta i Meirice&amp;aacute;&lt;/p&gt;
+&lt;p&gt;Make sure you insist on the accents being in the right place! :-)&lt;/p&gt;&lt;div style="clear:both;"&gt;&lt;/div&gt;</description></item><item><title>translation</title><link>http://talkirish.com/forums/thread/11692.aspx</link><pubDate>Fri, 06 Mar 2015 23:27:13 GMT</pubDate><guid isPermaLink="false">0644754f-ff87-49dd-b5e3-0e104f790f4a:11692</guid><dc:creator>kevlar_vw</dc:creator><slash:comments>0</slash:comments><comments>http://talkirish.com/forums/thread/11692.aspx</comments><wfw:commentRss>http://talkirish.com/forums/commentrss.aspx?SectionID=7&amp;PostID=11692</wfw:commentRss><description>&lt;p&gt;Hello all. Can someone please translate this to Irish for me? I want it tattooed on my arm.&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;designed in ireland&lt;/p&gt;
+&lt;p&gt;made in america&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;I did google translate, but dont really trust it, you know, tattoos last forever...&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;Thanks!&lt;/p&gt;&lt;div style="clear:both;"&gt;&lt;/div&gt;</description></item></channel></rss>

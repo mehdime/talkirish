@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<?xml-stylesheet type="text/xsl" href="http://talkirish.com/utility/FeedStylesheets/rss.xsl" media="screen"?><rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:slash="http://purl.org/rss/1.0/modules/slash/" xmlns:wfw="http://wellformedweb.org/CommentAPI/"><channel><title>General</title><link>http://talkirish.com/forums/7.aspx</link><description>This is where general discussions about Ireland and the Irish language take place. Also, if you would like to introduce yourself, please feel free to do that here. We may post announcements about the website in this board from time to time.</description><dc:language>en</dc:language><generator>CommunityServer 2008 SP1 (Build: 30619.63)</generator><item><title>Re: Twitter and Blogging</title><link>http://talkirish.com/forums/thread/7036.aspx</link><pubDate>Tue, 29 Nov 2011 09:40:00 GMT</pubDate><guid isPermaLink="false">0644754f-ff87-49dd-b5e3-0e104f790f4a:7036</guid><dc:creator>michelle</dc:creator><slash:comments>0</slash:comments><comments>http://talkirish.com/forums/thread/7036.aspx</comments><wfw:commentRss>http://talkirish.com/forums/commentrss.aspx?SectionID=7&amp;PostID=7036</wfw:commentRss><description>&lt;p&gt;Dia&amp;#39;s Muire duit. Your blogging and tweeting plans are a really great way to cement your learning - maith th&amp;uacute;. @talkirish is now following you on Twitter.&lt;/p&gt;
+&lt;p&gt;&amp;Aacute;dh m&amp;oacute;r ort,&lt;br /&gt;Michelle&amp;nbsp;&lt;/p&gt;&lt;div style="clear:both;"&gt;&lt;/div&gt;</description></item><item><title>Twitter and Blogging</title><link>http://talkirish.com/forums/thread/7023.aspx</link><pubDate>Sun, 20 Nov 2011 01:56:34 GMT</pubDate><guid isPermaLink="false">0644754f-ff87-49dd-b5e3-0e104f790f4a:7023</guid><dc:creator>Lukep</dc:creator><slash:comments>0</slash:comments><comments>http://talkirish.com/forums/thread/7023.aspx</comments><wfw:commentRss>http://talkirish.com/forums/commentrss.aspx?SectionID=7&amp;PostID=7023</wfw:commentRss><description>&lt;p&gt;Dia duit,&lt;/p&gt;
+&lt;p&gt;I have been learning Irish steadily for about six months and have started looking for new ways to do this. One way I have decided to do this is through a blog. In the blog I am going to essentially share the Irish I learn.&lt;/p&gt;
+&lt;p&gt;I have started writing posts in English but I have decided that my aim will be to try and introduce Irish before finally writing all of my posts in gaeilge; my target is to be doing this within 18 months. Hopefully people will find it interesting as I live in London and I am excited to explore the Irish Language around my home city, hopefully I will meet some people and find some interesting places.&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;(I also have a keen interest in performing music, and my blog will also be documenting me learning some traditional Irish instruments)&lt;/p&gt;
+&lt;p&gt;My blog address is,&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;learninggaeilge.blogspot.com&lt;/p&gt;
+&lt;p&gt;I was wondering what people think of this idea? Please let me know.&lt;/p&gt;
+&lt;p&gt;Please consider supporting me by reading blog and checking for updates (and most probably correcting me!),&lt;/p&gt;
+&lt;p&gt;I have also recently started using twitter, I intend to post updates on my blog there aswell as brief updates in Irish. Anyone who would like to follow my gaeilge antics on twitter @LcsPunnett&lt;/p&gt;
+&lt;div id="gt-res-wrap"&gt;
+&lt;div class="almost_half_cell" id="gt-res-content"&gt;
+&lt;div&gt;&lt;span class="short_text" id="result_box"&gt;&lt;span class="hps"&gt;Go raibh maith agat&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;div id="gt-res-tools"&gt;
+&lt;div id="gt-src-tools-l"&gt;&lt;/div&gt;
+&lt;div id="gt-res-tools-r"&gt;
+&lt;div id="gt-res-rate"&gt;
+&lt;div class="goog-inline-block goog-toolbar-menu-button"&gt;
+&lt;div class="goog-inline-block goog-toolbar-menu-button-outer-box"&gt;
+&lt;div class="goog-inline-block goog-toolbar-menu-button-inner-box"&gt;
+&lt;div class="goog-inline-block goog-toolbar-menu-button-caption"&gt;&lt;span class="goog-flat-menu-button-img gt-rate-icon jfk-button-img"&gt;&lt;/span&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;L&amp;uacute;c&amp;aacute;s&lt;/p&gt;
+&lt;p&gt;Ps Has anyone else done anything else like this? How did/are you get/getting on?&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;div style="clear:both;"&gt;&lt;/div&gt;</description></item></channel></rss>

@@ -1,0 +1,1 @@
+﻿<rsd version="1.0"><service><engineName>Community Server</engineName><engineLink>http://communityserver.org</engineLink><homePageLink>http://talkirish.com/blogs/sitenews/default.aspx</homePageLink><apis><api name="MetaWeblog" blogID="sitenews" preferred="true" apiLink="http://talkirish.com/blogs/sitenews/metablog.ashx" /></apis></service></rsd>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<?xml-stylesheet type="text/xsl" href="http://talkirish.com/utility/FeedStylesheets/rss.xsl" media="screen"?><rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:slash="http://purl.org/rss/1.0/modules/slash/" xmlns:wfw="http://wellformedweb.org/CommentAPI/"><channel><title>General</title><link>http://talkirish.com/forums/7.aspx</link><description>This is where general discussions about Ireland and the Irish language take place. Also, if you would like to introduce yourself, please feel free to do that here. We may post announcements about the website in this board from time to time.</description><dc:language>en</dc:language><generator>CommunityServer 2008 SP1 (Build: 30619.63)</generator><item><title>Re: An Droichead - cúpla ceolchoirm iontach Dé Sathairn 4 &amp; 11 Nollaig</title><link>http://talkirish.com/forums/thread/6330.aspx</link><pubDate>Wed, 08 Dec 2010 07:21:55 GMT</pubDate><guid isPermaLink="false">0644754f-ff87-49dd-b5e3-0e104f790f4a:6330</guid><dc:creator>michelle</dc:creator><slash:comments>0</slash:comments><comments>http://talkirish.com/forums/thread/6330.aspx</comments><wfw:commentRss>http://talkirish.com/forums/commentrss.aspx?SectionID=7&amp;PostID=6330</wfw:commentRss><description>&lt;p&gt;
+
+&lt;p&gt;&lt;strong&gt;ENGLISH BELOW&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;D&amp;eacute; Sathairn 11 Nollaig 2010&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Tic&amp;eacute;id &amp;pound;10.00&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Doirse 7.45i.n.&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;The Unwanted Trio&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&amp;Oacute; thraidisi&amp;uacute;in shaibhre an d&amp;aacute; thaobh den Atlantach a th&amp;aacute;inig foinse agus ionspar&amp;aacute;id cheol Unwanted &amp;ndash; tri&amp;uacute;r ceolt&amp;oacute;ir&amp;iacute; &amp;oacute; Shligeach a bhfuil s&amp;aacute;rthallann agus tiomantas saoil d&amp;aacute; gcuid ceoil acu.&lt;/p&gt;
+&lt;p&gt;Le ch&amp;eacute;ile, l&amp;eacute;ir&amp;iacute;onn Unwanted tuiscint dhomhain ar cheol an tSeandomhain agus an Domhain Nua araon, agus le ch&amp;eacute;ile chruthaigh siad comhth&amp;aacute;th&amp;uacute; foirfe den d&amp;aacute; thraidisi&amp;uacute;n seo ina l&amp;eacute;ir&amp;iacute;onn siad go bhfuil an pr&amp;oacute;iseas claochlaithe a thagann &amp;oacute;n tr&amp;aacute; agus &amp;oacute;n tuile cheolmhar ar an Fhrinse Atlantach ag dul ar aghaidh go f&amp;oacute;ill. Cib&amp;eacute; &amp;aacute;it a thaibh&amp;iacute;onn siad t&amp;aacute; Unwanted ag f&amp;aacute;il amach go bhfuil f&amp;aacute;ilte mh&amp;oacute;r rompu agus an-t&amp;oacute;ir orthu, leoga.&lt;/p&gt;
+&lt;p&gt;Cathy Jordan&lt;/p&gt;
+&lt;p&gt;Fonnad&amp;oacute;ireacht, Bas&amp;aacute;r, Giotar, Bodhr&amp;aacute;n, Cn&amp;aacute;mha, Uathchl&amp;aacute;irseach&lt;/p&gt;
+&lt;p&gt;Rick Epping&lt;/p&gt;
+&lt;p&gt;Arm&amp;oacute;nach, Consairt&amp;iacute;n, Bainse&amp;oacute;, Giallchl&amp;aacute;irseach, Maindil&amp;iacute;n, Fonnad&amp;oacute;ireacht&lt;/p&gt;
+&lt;p&gt;Seamie O&amp;rsquo;Dowd&lt;/p&gt;
+&lt;p&gt;Giot&amp;aacute;r, Fidil, Fonnad&amp;oacute;ireacht&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&amp;nbsp;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Saturday 11&lt;sup&gt;th&lt;/sup&gt;&amp;nbsp;December 2010&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Tickets &amp;pound;10.00&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Doors 7.45pm&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;The Unwanted Trio&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;From the rich traditions of both sides the Atlantic has come the source and inspiration of the music of Unwanted &amp;ndash; three Sligo-based musicians, each with exceptional talent and a lifetime dedication to their music.&lt;/p&gt;
+&lt;p&gt;Together, Unwanted demonstrate a deep understanding and appreciation of the music of both the Old World and the New, and together they have created a seamless fusion of these traditions, showing that the process of transformation arising from the musical ebb and flow along the Atlantic Fringe continues today. Wherever they perform, Unwanted are finding that they are welcome and very much wanted, indeed.&lt;/p&gt;
+&lt;p&gt;Cathy Jordan&lt;/p&gt;
+&lt;p&gt;Vocal,Bazaar,Guitar,Bodhran,Bones,Autoharp&lt;/p&gt;
+&lt;p&gt;Rick Epping&lt;/p&gt;
+&lt;p&gt;Harmonica,Concertina,,Banjo,Jawharp,Mandolin,Vocal&lt;/p&gt;
+&lt;p&gt;Seamie O&amp;rsquo;Dowd&lt;/p&gt;
+&lt;p&gt;Guitar,Fiddle,Vocal&lt;/p&gt;
+&lt;/p&gt;&lt;div style="clear:both;"&gt;&lt;/div&gt;</description></item><item><title>An Droichead - cúpla ceolchoirm iontach Dé Sathairn 4 &amp; 11 Nollaig</title><link>http://talkirish.com/forums/thread/6319.aspx</link><pubDate>Thu, 02 Dec 2010 11:07:43 GMT</pubDate><guid isPermaLink="false">0644754f-ff87-49dd-b5e3-0e104f790f4a:6319</guid><dc:creator>michelle</dc:creator><slash:comments>0</slash:comments><comments>http://talkirish.com/forums/thread/6319.aspx</comments><wfw:commentRss>http://talkirish.com/forums/commentrss.aspx?SectionID=7&amp;PostID=6319</wfw:commentRss><description>&lt;p&gt;
+&lt;p class="MsoNormal"&gt;C&amp;uacute;pla focal a chur in i&amp;uacute;l daoibh go bhfuil muid an bhu&amp;iacute;och d&amp;iacute;bh as bhur dtaca&amp;iacute;ocht le linn na bliana. &amp;nbsp;Beidh muid ag cur chr&amp;iacute;och leis an chl&amp;aacute;r 2010 le c&amp;uacute;pla ceolchoirm iontach D&amp;eacute; Sathairn 4 &amp;amp; 11 Nollaig.&lt;/p&gt;
+&lt;p class="MsoNormal"&gt;Beoga D&amp;eacute; Sathairn 4 agus The Unwanted Trio D&amp;eacute; Sathairn 11&lt;/p&gt;
+&lt;p class="MsoNormal"&gt;Tic&amp;eacute;id &amp;pound;10 agus Doirse 7:45&lt;/p&gt;
+&lt;p class="MsoNormal"&gt;T&amp;aacute; s&amp;uacute;il againn go bhfeicfidh m&amp;uacute;id sibh ann&lt;/p&gt;
+&lt;p class="MsoNormal"&gt;Tuilleadh eolais ar f&amp;aacute;il ag&amp;nbsp;&lt;a target="_blank" href="http://www.androichead.com/"&gt;www.androichead.com&lt;/a&gt;&lt;/p&gt;
+&lt;p class="MsoNormal"&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p class="MsoNormal"&gt;Just a few words to thank you all for your support throughout the year . This year&amp;rsquo;s programme will end on a high note, with two very special concerts.&lt;/p&gt;
+&lt;p class="MsoNormal"&gt;Saturday 4&lt;sup&gt;th&lt;/sup&gt;&amp;nbsp;Dec with Beoga and on the 11&lt;sup&gt;th&lt;/sup&gt;&amp;nbsp;with The Unwanted Trio.&lt;/p&gt;
+&lt;p class="MsoNormal"&gt;Tickets &amp;pound;10 and Doors 7:45&lt;/p&gt;
+&lt;p class="MsoNormal"&gt;Hope to see you there.&lt;/p&gt;
+&lt;p class="MsoNormal"&gt;Further info available at&amp;nbsp;&lt;a target="_blank" href="http://www.androichead.com/"&gt;www.androichead.com&lt;/a&gt;&lt;/p&gt;
+&lt;/p&gt;&lt;div style="clear:both;"&gt;&lt;/div&gt;</description></item></channel></rss>

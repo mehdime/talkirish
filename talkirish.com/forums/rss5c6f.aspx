@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<?xml-stylesheet type="text/xsl" href="http://talkirish.com/utility/FeedStylesheets/rss.xsl" media="screen"?><rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:slash="http://purl.org/rss/1.0/modules/slash/" xmlns:wfw="http://wellformedweb.org/CommentAPI/"><channel><title>General</title><link>http://talkirish.com/forums/7.aspx</link><description>This is where general discussions about Ireland and the Irish language take place. Also, if you would like to introduce yourself, please feel free to do that here. We may post announcements about the website in this board from time to time.</description><dc:language>en</dc:language><generator>CommunityServer 2008 SP1 (Build: 30619.63)</generator><item><title>Re: Focal an lae inniu - Word a Day in Irish - briste gairid</title><link>http://talkirish.com/forums/thread/4099.aspx</link><pubDate>Fri, 23 Oct 2009 11:55:08 GMT</pubDate><guid isPermaLink="false">0644754f-ff87-49dd-b5e3-0e104f790f4a:4099</guid><dc:creator>seano</dc:creator><slash:comments>0</slash:comments><comments>http://talkirish.com/forums/thread/4099.aspx</comments><wfw:commentRss>http://talkirish.com/forums/commentrss.aspx?SectionID=7&amp;PostID=4099</wfw:commentRss><description>&lt;p&gt;&lt;span&gt;There is a problem with&amp;nbsp;the word&amp;nbsp;br&amp;iacute;ste. &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span&gt;In the old days a hundred
+years ago, when there were plenty of native speakers around who only
+spoke Irish and were uninfluenced by English, the word br&amp;iacute;ste was
+always&amp;nbsp;in the singular when it meant one pair of trousers. In other
+words, it is as though in English the word was trouser and when you
+said trousers it meant more than one pair.&amp;nbsp;So the traditional usage is
+&amp;quot;R&amp;eacute;ab m&amp;eacute; mo bhr&amp;iacute;ste&amp;quot; (I ripped my trousers = one pair) and &amp;quot;T&amp;aacute; br&amp;iacute;st&amp;iacute;
+ag triom&amp;uacute; ar an l&amp;iacute;ne&amp;quot; (There are a number of pairs of trousers drying
+on the line).&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span&gt;Nowadays, under the influence of English, this
+distinction is getting shakier and many people say br&amp;iacute;st&amp;iacute; for a pair of
+trousers. So, which version you want to use depends (I suppose) on how
+conservative you are in matters of language. Personally I don&amp;#39;t think
+it matters much -there are more important issues -&amp;nbsp;but the main
+Irish-English dictionary still gives the basic form as br&amp;iacute;ste and I
+think most native speakers would still say br&amp;iacute;ste. &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span&gt;As for the
+adjective, if you say br&amp;iacute;ste, you have to use a singular form of the
+adjective: br&amp;iacute;ste gearr, br&amp;iacute;ste sciota, br&amp;iacute;ste gairid. These all mean
+short: gairid is more Ulster but they will be understood anywhere. In
+the plural, they are (officially) br&amp;iacute;st&amp;iacute; gearra, br&amp;iacute;st&amp;iacute; sciota and
+br&amp;iacute;st&amp;iacute; gairid (though many people would probably stick an e on the end
+of the word gairid - however, officially according to the Standard, it
+is gairid and not gairide). &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span&gt;Incidentally, situations like this where
+there are lots of words for the same thing are very common in smaller
+languages like Irish or Maori but they also happen in big languages
+too: think of memory key, memory stick, flash drive. They all mean the
+same thing and they are all in common use!&lt;/span&gt;&lt;/p&gt;&lt;div style="clear:both;"&gt;&lt;/div&gt;</description></item><item><title>Focal an lae inniu - Word a Day in Irish - briste gairid</title><link>http://talkirish.com/forums/thread/4089.aspx</link><pubDate>Mon, 19 Oct 2009 19:26:24 GMT</pubDate><guid isPermaLink="false">0644754f-ff87-49dd-b5e3-0e104f790f4a:4089</guid><dc:creator>Spainneach</dc:creator><slash:comments>0</slash:comments><comments>http://talkirish.com/forums/thread/4089.aspx</comments><wfw:commentRss>http://talkirish.com/forums/commentrss.aspx?SectionID=7&amp;PostID=4089</wfw:commentRss><description>&lt;p&gt;&lt;em&gt;&lt;span style="text-decoration:underline;"&gt;&lt;/span&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;p class="MsoNormal" style="margin:0in 0in 0pt;"&gt;&lt;span style="color:black;mso-bidi-font-family:Arial;mso-ansi-language:GA;"&gt;&lt;span style="font-size:small;"&gt;&lt;span style="font-family:Times New Roman;"&gt;&lt;span style="text-decoration:underline;"&gt;&lt;em&gt;Corrections always welcome&lt;/em&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p class="MsoNormal" style="margin:0in 0in 0pt;"&gt;&lt;span style="color:black;mso-bidi-font-family:Arial;mso-ansi-language:GA;"&gt;&lt;span style="font-size:small;"&gt;&lt;span style="font-family:Times New Roman;"&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p class="MsoNormal" style="margin:0in 0in 0pt;"&gt;&lt;span style="font-family:Times New Roman;"&gt;&lt;span style="font-size:small;"&gt;&lt;span style="color:black;mso-bidi-font-family:Arial;mso-ansi-language:GA;"&gt;Bhuel, ni thuigim &amp;eacute;, i dtosach b&amp;aacute;ire, mar bhog t&lt;/span&gt;&lt;span style="mso-ansi-language:GA;"&gt;&amp;uacute; na giaranna ar sh&amp;uacute;il &amp;oacute; briste gairid go bhrist&amp;iacute; sciota.&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p class="MsoNormal" style="margin:0in 0in 0pt;"&gt;&lt;span style="mso-ansi-language:GA;"&gt;&lt;span style="font-family:Times New Roman;font-size:small;"&gt;&amp;nbsp;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p class="MsoNormal" style="margin:0in 0in 0pt;"&gt;&lt;span style="font-family:Times New Roman;"&gt;&lt;span style="font-size:small;"&gt;&lt;span style="mso-ansi-language:GA;"&gt;Tuigim anois difr&amp;iacute;ocht&lt;/span&gt;&lt;span&gt; &lt;/span&gt;&lt;span style="mso-ansi-language:GA;"&gt;idir &amp;ldquo;shorts&amp;rdquo; &lt;span style="mso-spacerun:yes;"&gt;&amp;nbsp;&lt;/span&gt;n&amp;oacute; &amp;ldquo;sh&amp;oacute;rt pants&amp;rdquo; agus &amp;ldquo;running shorts&amp;rdquo; n&amp;oacute; &amp;ldquo;gym shorts&amp;rdquo;.&lt;/span&gt;&lt;span style="color:black;mso-bidi-font-family:Arial;mso-ansi-language:GA;"&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p class="MsoNormal" style="margin:0in 0in 0pt;"&gt;&lt;span style="color:black;mso-bidi-font-family:Arial;mso-ansi-language:GA;"&gt;&lt;span style="font-family:Times New Roman;font-size:small;"&gt;&amp;nbsp;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p class="MsoNormal" style="margin:0in 0in 0pt;"&gt;&lt;span style="font-size:small;"&gt;&lt;span style="font-family:Times New Roman;"&gt;&lt;span style="color:black;mso-bidi-font-family:Arial;mso-ansi-language:GA;"&gt;D&amp;rsquo;imigh m&amp;eacute; de sciot&amp;aacute;n le racht sciot&lt;/span&gt;&lt;span style="mso-ansi-language:GA;"&gt;&amp;iacute;&lt;/span&gt;&lt;span style="color:black;mso-bidi-font-family:Arial;mso-ansi-language:GA;"&gt;ola. &lt;/span&gt;&lt;/span&gt;&lt;span style="font-family:Wingdings;color:black;mso-bidi-font-family:Arial;mso-ansi-language:GA;mso-ascii-font-family:&amp;#39;Times New Roman&amp;#39;;mso-hansi-font-family:&amp;#39;Times New Roman&amp;#39;;mso-char-type:symbol;mso-symbol-font-family:Wingdings;"&gt;&lt;span style="mso-char-type:symbol;mso-symbol-font-family:Wingdings;"&gt;J&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p class="MsoNormal" style="margin:0in 0in 0pt;"&gt;&lt;span style="font-size:small;"&gt;&lt;span style="font-family:Wingdings;color:black;mso-bidi-font-family:Arial;mso-ansi-language:GA;mso-ascii-font-family:&amp;#39;Times New Roman&amp;#39;;mso-hansi-font-family:&amp;#39;Times New Roman&amp;#39;;mso-char-type:symbol;mso-symbol-font-family:Wingdings;"&gt;&lt;span style="mso-char-type:symbol;mso-symbol-font-family:Wingdings;"&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="font-size:small;"&gt;&lt;span style="font-family:Wingdings;color:black;mso-bidi-font-family:Arial;mso-ansi-language:GA;mso-ascii-font-family:&amp;#39;Times New Roman&amp;#39;;mso-hansi-font-family:&amp;#39;Times New Roman&amp;#39;;mso-char-type:symbol;mso-symbol-font-family:Wingdings;"&gt;&lt;span style="mso-char-type:symbol;mso-symbol-font-family:Wingdings;"&gt;
+&lt;p class="MsoNormal" style="margin:0in 0in 0pt;"&gt;&lt;span style="color:black;mso-bidi-font-family:Arial;mso-ansi-language:GA;"&gt;&lt;span style="font-family:Times New Roman;"&gt;Well, I did not understand it, at first, because you changed gears away from short pants to running shorts.&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p class="MsoNormal" style="margin:0in 0in 0pt;"&gt;&lt;span style="color:black;mso-bidi-font-family:Arial;mso-ansi-language:GA;"&gt;&lt;span style="font-family:Times New Roman;"&gt;&amp;nbsp;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p class="MsoNormal" style="margin:0in 0in 0pt;"&gt;&lt;span style="color:black;mso-bidi-font-family:Arial;mso-ansi-language:GA;"&gt;&lt;span style="font-family:Times New Roman;"&gt;Now I understand the difference between shorts or short pants and running shorts or gym shorts.&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p class="MsoNormal" style="margin:0in 0in 0pt;"&gt;&lt;span style="color:black;mso-bidi-font-family:Arial;mso-ansi-language:GA;"&gt;&lt;span style="font-family:Times New Roman;"&gt;&amp;nbsp;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p class="MsoNormal" style="margin:0in 0in 0pt;"&gt;&lt;span style="color:black;mso-bidi-font-family:Arial;mso-ansi-language:GA;"&gt;&lt;span style="font-family:Times New Roman;"&gt;I&amp;nbsp;darted away with the giggles &lt;/span&gt;&lt;/span&gt;&lt;span style="font-family:Wingdings;color:black;mso-bidi-font-family:Arial;mso-ansi-language:GA;mso-ascii-font-family:&amp;#39;Times New Roman&amp;#39;;mso-hansi-font-family:&amp;#39;Times New Roman&amp;#39;;mso-char-type:symbol;mso-symbol-font-family:Wingdings;"&gt;&lt;span style="mso-char-type:symbol;mso-symbol-font-family:Wingdings;"&gt;J&lt;/span&gt;&lt;/span&gt;&lt;span style="color:black;mso-bidi-font-family:Arial;mso-ansi-language:GA;"&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p class="MsoNormal" style="margin:0in 0in 0pt;"&gt;&amp;nbsp;&lt;/p&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;
+&lt;p class="MsoNormal" style="margin:0in 0in 0pt;"&gt;&amp;nbsp;&lt;/p&gt;
+&lt;/p&gt;
+&lt;p class="MsoNormal" style="margin:0in 0in 0pt;"&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;
+&lt;p&gt;&lt;em&gt;&lt;span style="text-decoration:underline;"&gt;&lt;/span&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;&lt;span style="text-decoration:underline;"&gt;&lt;/span&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;/p&gt;&lt;div style="clear:both;"&gt;&lt;/div&gt;</description></item></channel></rss>

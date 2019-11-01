@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<?xml-stylesheet type="text/xsl" href="http://talkirish.com/utility/FeedStylesheets/rss.xsl" media="screen"?><rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:slash="http://purl.org/rss/1.0/modules/slash/" xmlns:wfw="http://wellformedweb.org/CommentAPI/"><channel><title>The Irish Language - Grammar, Pronunciation, Games, Myths, Poetry and more</title><link>http://talkirish.com/forums/40.aspx</link><description>A great place to discuss Irish grammar, pronunciation, and vocabulary.  You'll also find lots of help and information on Irish translations, Irish myths and legends, and Irish poetry. And here's where we have some Irish word games and lots of useful tips on language learning.</description><dc:language>en</dc:language><generator>CommunityServer 2008 SP1 (Build: 30619.63)</generator><item><title>Re: Irish classes in London</title><link>http://talkirish.com/forums/thread/8381.aspx</link><pubDate>Mon, 17 Jun 2013 01:11:02 GMT</pubDate><guid isPermaLink="false">0644754f-ff87-49dd-b5e3-0e104f790f4a:8381</guid><dc:creator>Bammeh</dc:creator><slash:comments>0</slash:comments><comments>http://talkirish.com/forums/thread/8381.aspx</comments><wfw:commentRss>http://talkirish.com/forums/commentrss.aspx?SectionID=40&amp;PostID=8381</wfw:commentRss><description>&lt;p&gt;Hey Im living in London atm, I seen these courses advertised but I am unable to make them due to working tuesday :P! Is this ran by yourself? And when will the next courses be set&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;div style="clear:both;"&gt;&lt;/div&gt;</description></item><item><title>Irish classes in London</title><link>http://talkirish.com/forums/thread/8226.aspx</link><pubDate>Thu, 02 May 2013 09:54:27 GMT</pubDate><guid isPermaLink="false">0644754f-ff87-49dd-b5e3-0e104f790f4a:8226</guid><dc:creator>michelle</dc:creator><slash:comments>0</slash:comments><comments>http://talkirish.com/forums/thread/8226.aspx</comments><wfw:commentRss>http://talkirish.com/forums/commentrss.aspx?SectionID=40&amp;PostID=8226</wfw:commentRss><description>&lt;p&gt;
+&lt;div&gt;&lt;b&gt;Seo an t-eolas&amp;nbsp;faoi na Ranganna Gaeilge a mbeidh ar si&amp;uacute;l in Ionad&amp;nbsp;&amp;Eacute;ireannach Londain, Camden go luath. Beidh gach rang&amp;nbsp; ar si&amp;uacute;l ar feadh 8 seachtaine &amp;oacute;na 7i.n. - 9i.n.&lt;/b&gt;&lt;/div&gt;
+&lt;div&gt;&lt;b&gt;&lt;br /&gt;&lt;/b&gt;&lt;/div&gt;
+&lt;div&gt;&lt;/div&gt;
+&lt;div&gt;
+&lt;div&gt;&lt;b&gt;D&amp;eacute; M&amp;aacute;irt 7&amp;uacute; Bealtaine,Tosaitheoir&amp;iacute;&lt;/b&gt;&lt;/div&gt;
+&lt;div&gt;&lt;b&gt;&lt;br /&gt;&lt;/b&gt;&lt;/div&gt;
+&lt;div&gt;&lt;b&gt;D&amp;eacute; M&amp;aacute;irt 7&amp;uacute; Bealtaine, Ardrang&lt;/b&gt;&lt;/div&gt;
+&lt;div&gt;&lt;b&gt;&lt;br /&gt;&lt;/b&gt;&lt;/div&gt;
+&lt;div&gt;&lt;b&gt;D&amp;eacute;ardaoin 9&amp;uacute; Bealtaine, Me&amp;aacute;nrang&lt;/b&gt;&lt;/div&gt;
+&lt;div&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;div&gt;&lt;b&gt;&lt;br /&gt;&lt;/b&gt;&lt;/div&gt;
+&lt;div&gt;&lt;b&gt;Seo an nasc chun rang a chur in &amp;aacute;irithe&lt;/b&gt;&lt;/div&gt;
+&lt;div&gt;&lt;b&gt;&lt;a target="_blank" href="http://www.londonirishcentre.org/events/summer-irish-language-classes-8-week-course"&gt;&lt;span style="color:#0066cc;"&gt;http://www.&lt;/span&gt;&lt;span style="color:#0066cc;"&gt;londonirishcentre.org/events/&lt;/span&gt;&lt;span style="color:#0066cc;"&gt;summer-irish-language-classes-&lt;/span&gt;&lt;span style="color:#0066cc;"&gt;8-week-course&lt;/span&gt;&lt;/a&gt;.&lt;/b&gt;&lt;/div&gt;
+&lt;div&gt;&lt;/div&gt;
+&lt;div&gt;
+&lt;div&gt;Please see the dates below for our Summer term Irish language classes. &amp;nbsp;All classes are from 7pm to 9pm and will run for 8 weeks.&lt;/div&gt;
+&lt;div&gt;&lt;/div&gt;
+&lt;div&gt;&lt;/div&gt;
+&lt;div&gt;
+&lt;div&gt;Beginners, Tuesday May 7th&lt;/div&gt;
+&lt;div&gt;&lt;/div&gt;
+&lt;div&gt;Comfortable Speakers, Tuesday May 7th&lt;/div&gt;
+&lt;div&gt;&lt;/div&gt;
+&lt;div&gt;Improvers, Thursday May 9th&lt;/div&gt;
+&lt;div&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;div&gt;&lt;/div&gt;
+&lt;div&gt;Please use this link to book your place&lt;/div&gt;
+&lt;div&gt;&lt;a target="_blank" href="http://www.londonirishcentre.org/events/summer-irish-language-classes-8-week-course"&gt;&lt;span style="color:#0066cc;"&gt;http://www.&lt;/span&gt;&lt;span style="color:#0066cc;"&gt;londonirishcentre.org/events/&lt;/span&gt;&lt;span style="color:#0066cc;"&gt;summer-irish-language-classes-&lt;/span&gt;&lt;span style="color:#0066cc;"&gt;8-week-course&lt;/span&gt;&lt;/a&gt;.&lt;/div&gt;
+&lt;/div&gt;
+&lt;/p&gt;&lt;div style="clear:both;"&gt;&lt;/div&gt;</description></item></channel></rss>
